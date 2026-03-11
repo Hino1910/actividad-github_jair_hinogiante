@@ -1,3 +1,7 @@
 Proyecto: Git Conflicts
+<<<<<<< feature/conflicto-jair-hinogiante
 Responsable: Equipo-A
+=======
+Responsable: Equipo-B
+>>>>>>> main
 Version: 1.0
